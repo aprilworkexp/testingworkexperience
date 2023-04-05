@@ -1,4 +1,11 @@
-baseURL = 'https://aprilworkexp-effective-carnival-rjrr4qp6grjh5jp9-1313.preview.app.github.dev/'
-languageCode = 'en-us'
+baseURL = 'https://aprilworkexp.github.io/testingworkexperience'
+languageCode = 'en-gb'
 title = 'My New Hugo Site'
 theme = 'beautifulhugo'
+
+custom_css = ["css/custom.css"]
+
+[Author]
+  # Set only your "username" for default hosts and full URLs otherwise (e.g., "https://MyGitLab.org/username")
+  website = "aprilworkexp.github.io/testingworkexperience"
+  github = "aprilworkexp"
